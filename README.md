@@ -1,11 +1,5 @@
 # ExecOS
 
-This project is part of the series on [Youtube](https://youtu.be/WG_5HSq-Tt4)
-
-Your autonomous AI assistant for email and calendar management. ExecOS uses Claude AI to analyze incoming emails, draft replies, extract action items, and create calendar events — all running on autopilot.
-
-Huge shoutout to [Clerk](https://go.clerk.com/rDCSPyr) for sponsoring this video.
-
 ## Features
 
 - **AI Email Analysis** — Processes unread emails using Claude Sonnet 4, extracting summaries, priorities, action items, and categories
